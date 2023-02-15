@@ -4,7 +4,7 @@
 <a href="https://t.me/kgf_kamil">
 <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/kamil-gimadeev-7575bb266/">
 <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
